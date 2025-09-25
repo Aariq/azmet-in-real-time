@@ -79,7 +79,7 @@ ui <-
           class = "border-0 rounded-0 shadow-none"
         ),
 
-      div(
+      htmltools::div(
         shiny::uiOutput(outputId = "refreshDataButton"),
         shiny::uiOutput(outputId = "refreshDataInfo"),
         
