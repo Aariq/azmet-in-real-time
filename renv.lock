@@ -211,7 +211,7 @@
       "Package": "commonmark",
       "Version": "1.9.5",
       "Source": "Repository",
-      "Repository": "CRAN",
+      "Repository": "RSPM",
       "Hash": "4ac08754c8ed35996b7c343fbb22885a"
     },
     "cpp11": {
@@ -448,7 +448,7 @@
       "Package": "httpuv",
       "Version": "1.6.16",
       "Source": "Repository",
-      "Repository": "CRAN",
+      "Repository": "RSPM",
       "Requirements": [
         "R",
         "R6",
@@ -934,9 +934,9 @@
     },
     "shiny": {
       "Package": "shiny",
-      "Version": "1.11.0",
+      "Version": "1.11.1",
       "Source": "Repository",
-      "Repository": "CRAN",
+      "Repository": "RSPM",
       "Requirements": [
         "R",
         "R6",
@@ -963,7 +963,7 @@
         "withr",
         "xtable"
       ],
-      "Hash": "011db3556755012e632ed99d083d7d75"
+      "Hash": "1c1a2437351984ff592639ae28cda09e"
     },
     "shinyjs": {
       "Package": "shinyjs",
