@@ -9,8 +9,7 @@ fxn_nwsTableTitle <- function() {
       htmltools::HTML(
         paste0(
           bsicons::bs_icon("table"), 
-          htmltools::HTML("&nbsp;"),
-          htmltools::HTML("&nbsp;"),
+          htmltools::HTML("&nbsp;&nbsp;"),
           toupper("The latest 15-minute data from across the network"),
           htmltools::HTML("&nbsp;&nbsp;&nbsp;&nbsp;"),
           bslib::tooltip(
