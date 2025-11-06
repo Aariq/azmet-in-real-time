@@ -22,7 +22,7 @@ fxn_slsCardLayoutTitle <- function(azmetStation) {
           htmltools::HTML("&nbsp;&nbsp;&nbsp;&nbsp;"),
           bslib::tooltip(
             bsicons::bs_icon("info-circle"),
-            "Hover over data for variable values.",
+            "Hover over data for variable values. Click or tap on the 'Expand' button to the lower right of the graphs to increase the viewing area.",
             id = "infoCardLayoutTitle",
             placement = "right"
           )
